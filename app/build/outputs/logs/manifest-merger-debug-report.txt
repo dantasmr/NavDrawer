@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+MERGED from [com.android.support:design:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ada436ee5f069b433fbf8a31c68b1995/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/158ce859afa15654b8793ac9ce19fe89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a05ad992af68dbaee9ac470e847247b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0d796a10670cc608e122a84a6bd45ca3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e9db94edddcd044a4327aab7c118e594/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/92de7b37df74e0dad64ef23b35599933/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bdb3c9e64fdb329c21d18bfb1c959a1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cea910bfbad8cfe4b5ab233da955b288/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9948b1444946f800c32d8fe098757a30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f1fc46fe5239e6fa67e513355fd7b9ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6842706210e1cacac5101340c6e9c13a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f8a4024bb29d72b550dbd717320f0560/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4648e8175274cd28bcdd29a67763030b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6236771dee72a8b21bb12d4aa14678ed/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c0e717b9bad1f78c434ece158329a30/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/41b41aa4ea6bf20a57637d89ca30732b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+	package
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:17:5-54
+		INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+		INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:1-37:12
+		INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:19:5-35:19
+	android:supportsRtl
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.android.navdrawerexperiment.MainActivity
+ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:26:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ada436ee5f069b433fbf8a31c68b1995/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/ada436ee5f069b433fbf8a31c68b1995/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/158ce859afa15654b8793ac9ce19fe89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/158ce859afa15654b8793ac9ce19fe89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a05ad992af68dbaee9ac470e847247b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a05ad992af68dbaee9ac470e847247b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0d796a10670cc608e122a84a6bd45ca3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0d796a10670cc608e122a84a6bd45ca3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e9db94edddcd044a4327aab7c118e594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e9db94edddcd044a4327aab7c118e594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/92de7b37df74e0dad64ef23b35599933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/92de7b37df74e0dad64ef23b35599933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bdb3c9e64fdb329c21d18bfb1c959a1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bdb3c9e64fdb329c21d18bfb1c959a1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cea910bfbad8cfe4b5ab233da955b288/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cea910bfbad8cfe4b5ab233da955b288/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9948b1444946f800c32d8fe098757a30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/9948b1444946f800c32d8fe098757a30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f1fc46fe5239e6fa67e513355fd7b9ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f1fc46fe5239e6fa67e513355fd7b9ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6842706210e1cacac5101340c6e9c13a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6842706210e1cacac5101340c6e9c13a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f8a4024bb29d72b550dbd717320f0560/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f8a4024bb29d72b550dbd717320f0560/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4648e8175274cd28bcdd29a67763030b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4648e8175274cd28bcdd29a67763030b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6236771dee72a8b21bb12d4aa14678ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/6236771dee72a8b21bb12d4aa14678ed/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c0e717b9bad1f78c434ece158329a30/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9c0e717b9bad1f78c434ece158329a30/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/41b41aa4ea6bf20a57637d89ca30732b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/dantasmr/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/41b41aa4ea6bf20a57637d89ca30732b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dantasmr/Documents/Marcelo/Certificacao_cola/NavDrawerExperiment/app/src/main/AndroidManifest.xml
